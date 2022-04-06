@@ -8,4 +8,5 @@
 Bani711/Bani711 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Hallo sy adalah penguna givthub
+Hallo sy adalah penguna baru sehingga belom 
+Terlalu begitu pengalaman.
